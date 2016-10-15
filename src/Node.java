@@ -1,4 +1,5 @@
 //v2
+//b1-1
 
 public class Node {
 	public Node(String v,int power) {
