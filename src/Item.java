@@ -2,6 +2,9 @@ import java.util.ArrayList;
 
 //v2
 //b2-1
+//b1-1
+//c4-1
+>>>>>>> 1140310118
 
 public class Item {
 	public int coe=1;
