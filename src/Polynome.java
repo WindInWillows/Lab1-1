@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 //v2
+//c4-1
 
 // 实现了一个处理多项式的类
 

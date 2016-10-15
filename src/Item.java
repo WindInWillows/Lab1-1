@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 //v2
+//c4-1
 
 public class Item {
 	public int coe=1;
